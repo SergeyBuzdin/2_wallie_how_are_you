@@ -1,6 +1,6 @@
 import random
 
-#test from Ipad
+#new test from Ipad
 def get_wallie_action():
     possible_actions = [
         'считает новых пользователей',
