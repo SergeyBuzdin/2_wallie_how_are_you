@@ -1,4 +1,6 @@
 import random
+print(__name__)
+
 
 
 def get_wallie_action():
@@ -18,3 +20,7 @@ def get_wallie_action():
 if __name__ == '__main__':
     action = get_wallie_action()
     print(action)
+
+
+    for name in [1,2,3,4,4]:
+     print(name)
