@@ -2,7 +2,7 @@ import random
 print(__name__)
 
 
-
+#new test from Ipad
 def get_wallie_action():
     possible_actions = [
         'считает новых пользователей',
